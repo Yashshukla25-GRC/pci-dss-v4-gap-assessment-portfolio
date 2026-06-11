@@ -59,6 +59,14 @@ A complete, enterprise-grade PCI DSS v4.0 Gap Assessment engagement simulating r
 | 5 | Remediation Roadmap & MAP | 20-item Management Action Plan, 4 phases |
 | 6 | Security Governance Reviews | Access control, firewall, logging, vuln mgmt, config, TPRM |
 
+## Screenshots
+
+### Compliance Scorecard
+![Compliance Dashboard](dashboard-screenshot.png)
+
+### Findings Register
+![Findings Register](findings-screenshot.png)
+
 ### Excel Workbooks
 | # | Document | Description |
 |---|---|---|
